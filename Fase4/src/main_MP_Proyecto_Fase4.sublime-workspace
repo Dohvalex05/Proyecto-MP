@@ -1,0 +1,2331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"desaparece"
+			],
+			[
+				"iss",
+				"istringstream"
+			],
+			[
+				"is",
+				"istringstream"
+			],
+			[
+				"reserva",
+				"ReservarMemoria"
+			],
+			[
+				"Get",
+				"GetLibros"
+			],
+			[
+				"num",
+				"num_libros"
+			],
+			[
+				"li",
+				"libros"
+			],
+			[
+				"es",
+				"estantes"
+			],
+			[
+				"istr",
+				"istringstream"
+			],
+			[
+				"fech",
+				"fecha_compra"
+			],
+			[
+				"os",
+				"ostringstream"
+			],
+			[
+				"unos",
+				"unos_resultados"
+			],
+			[
+				"Eli",
+				"EliminaTodos"
+			],
+			[
+				"Num",
+				"NumCarrerasDisputadas"
+			],
+			[
+				"todo",
+				"todos_resultados"
+			],
+			[
+				"unos_res",
+				"unos_resultados"
+			],
+			[
+				"Numo",
+				"NumCarrerasMinimo"
+			],
+			[
+				"capa",
+				"capacidad_inicial"
+			],
+			[
+				"g",
+				"guardable"
+			],
+			[
+				"D",
+				"dia"
+			],
+			[
+				"Fech",
+				"FechaFinal"
+			],
+			[
+				"N",
+				"NombraFichero"
+			],
+			[
+				"cas",
+				"ValorCasilla"
+			],
+			[
+				"TODOS",
+				"TODOSRESULTADOS"
+			],
+			[
+				"TODOSRESULT",
+				"TODOSRESULTADOS"
+			],
+			[
+				"GetId",
+				"GetIdCarrera"
+			],
+			[
+				"final",
+				"finalpract"
+			],
+			[
+				"nota",
+				"NOTAPRACT"
+			],
+			[
+				"NO",
+				"NOTAFINAL"
+			],
+			[
+				"parte",
+				"parte_decimal"
+			],
+			[
+				"Libera",
+				"LiberaMemoria"
+			],
+			[
+				"capacidad",
+				"capacidad_inicial"
+			],
+			[
+				"cap",
+				"capacidad_inicial"
+			],
+			[
+				"Copia",
+				"CopiarDatos"
+			],
+			[
+				"To",
+				"TotalUtilizados"
+			],
+			[
+				"to",
+				"total_utilizados"
+			],
+			[
+				"TipoBase",
+				"TipoBaseMatriz2D"
+			],
+			[
+				"Tipo",
+				"TipoBaseMatriz2D"
+			],
+			[
+				"setD",
+				"setDorsal"
+			],
+			[
+				"set",
+				"setDenominacion"
+			],
+			[
+				"Forma",
+				"FormatString"
+			],
+			[
+				"get",
+				"GetDistancia"
+			],
+			[
+				"Dis",
+				"Distancia"
+			],
+			[
+				"v1_cl",
+				"v1_clonado_2"
+			],
+			[
+				"Elim",
+				"EliminarRepetidosDesplazamiento"
+			],
+			[
+				"Cre",
+				"CreaVectorDinamico"
+			],
+			[
+				"T",
+				"TipoRedimension"
+			],
+			[
+				"Se",
+				"SecuenciaEnteros_basico.h"
+			],
+			[
+				"E",
+				"Elimina"
+			],
+			[
+				"vector",
+				"vector_privado"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"Mezcla",
+				"MezclaVectores"
+			],
+			[
+				"eliminar_ba",
+				"eliminar_blancos_intermedios"
+			],
+			[
+				"eliminar_bl",
+				"eliminar_blancos_intermedios"
+			],
+			[
+				"eliminar_blancs",
+				"eliminar_blancos_intermedios"
+			],
+			[
+				"elimi",
+				"eliminar_blancos_extremos"
+			],
+			[
+				"eliminar_",
+				"eliminar_blancos_finales"
+			],
+			[
+				"elimina",
+				"eliminar_blancos_iniciales"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/oem/Desktop/pene.cpp",
+			"settings":
+			{
+				"buffer_size": 1,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "Me"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " pican"
+					},
+					"BgAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " los"
+					},
+					"BAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " cos"
+					},
+					"BAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8AAAAAAAAADwAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "cossssssssssssssssssssssssssssss"
+					},
+					"IAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "sssssssssssssssssssssssssssssss"
+					},
+					"HwAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "ssssss"
+					},
+					"BgAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "sssssssss"
+					},
+					"CQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABdAAAATWUgcGljYW4gbG9zIGNvY29zc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nz",
+					"AQAAAAAAAAABAAAAXQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					2,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"reindent",
+					null,
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "#include <iostream>\n\nusing namespace std;\n\nint main(){\n\t\n\n\n\tcout << \"Hola Mundo\" << endl;\n\n\treturn 0;\n\n\n\n",
+			"file": "/home/oem/Desktop/hola.cpp",
+			"file_size": 106,
+			"file_write_time": 133649297346087532,
+			"settings":
+			{
+				"buffer_size": 105,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "#include"
+					},
+					"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " <o"
+					},
+					"AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAoAAAAAAAAACgAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "iostream"
+					},
+					"CAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n\nusing"
+					},
+					"BwAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " n"
+					},
+					"AgAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAABsAAAAAAAAAGwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "namespace"
+					},
+					"CQAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": " std"
+					},
+					"BAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					2,
+					"left_delete",
+					null,
+					"AgAAACkAAAAAAAAAKQAAAAAAAAABAAAACigAAAAAAAAAKAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\nint"
+					},
+					"BQAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " main"
+					},
+					"BQAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADMAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADUAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n\n\n\n"
+					},
+					"EQAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAOQAAAAAAAAA5AAAAAAAAAAEAAAAJOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAADoAAAAAAAAAOgAAAAAAAAABAAAACTwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA7AAAAAAAAADsAAAAAAAAAAQAAAAk9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAAEAAAAJPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAD0AAAAAAAAAPQAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"reindent",
+					null,
+					"AQAAADsAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "cout"
+					},
+					"BQAAADwAAAAAAAAAPQAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAEAAAAJPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " <<"
+					},
+					"AwAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEQAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "Hola"
+					},
+					"BAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " Mundo"
+					},
+					"BgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " <<"
+					},
+					"AwAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " endl;"
+					},
+					"BgAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "\n\nreturn"
+					},
+					"CwAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAWgAAAAAAAABaAAAAAAAAAAEAAAAJXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGMAAAAAAAAAYwAAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "0;"
+					},
+					"AgAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkAAAAAAAAAaQAAAAAAAAABAAAAfQ",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Carreras.cpp",
+			"redo_stack":
+			[
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "zzzz"
+					},
+					"BAAAAP8BAAAAAAAA/wEAAAAAAAABAAAAev4BAAAAAAAA/gEAAAAAAAABAAAAev0BAAAAAAAA/QEAAAAAAAABAAAAevwBAAAAAAAA/AEAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"left_delete",
+					null,
+					"FAAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA/QEAAAAAAAD+AQAAAAAAAAAAAAD+AQAAAAAAAP8BAAAAAAAAAAAAAP8BAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAICAAAAAAAAAAAAAAICAAAAAAAAAwIAAAAAAAAAAAAAAwIAAAAAAAAEAgAAAAAAAAAAAAAEAgAAAAAAAAUCAAAAAAAAAAAAAAUCAAAAAAAABgIAAAAAAAAAAAAABgIAAAAAAAAHAgAAAAAAAAAAAAAHAgAAAAAAAAgCAAAAAAAAAAAAAAgCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAKAgAAAAAAAAAAAAAKAgAAAAAAAAsCAAAAAAAAAAAAAAsCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAANAgAAAAAAAAAAAAANAgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAAQAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " df"
+					},
+					"AwAAAA8CAAAAAAAADwIAAAAAAAABAAAAZg4CAAAAAAAADgIAAAAAAAABAAAAZA0CAAAAAAAADQIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert_completion",
+					{
+						"completion": "desaparece",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "desaparece"
+					},
+					"AgAAAAMCAAAAAAAAAwIAAAAAAAAKAAAAZGVzYXBhcmVjZQMCAAAAAAAABAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQIAAAAAAAANAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAAMCAAAAAAAAAwIAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAABAIAAAAAAAAEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAMCAAAAAAAADgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "macarrones"
+					},
+					"CgAAAAwCAAAAAAAADAIAAAAAAAABAAAAcwsCAAAAAAAACwIAAAAAAAABAAAAZQoCAAAAAAAACgIAAAAAAAABAAAAbgkCAAAAAAAACQIAAAAAAAABAAAAbwgCAAAAAAAACAIAAAAAAAABAAAAcgcCAAAAAAAABwIAAAAAAAABAAAAcgYCAAAAAAAABgIAAAAAAAABAAAAYQUCAAAAAAAABQIAAAAAAAABAAAAYwQCAAAAAAAABAIAAAAAAAABAAAAYQMCAAAAAAAAAwIAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAADQIAAAAAAAANAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAICAAAAAAAAAgIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 17272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "Resultado.cpp",
+			"settings":
+			{
+				"buffer_size": 4158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/***************************************************************************/\n/***************************************************************************/\n// METODOLOGÍA DE LA PROGRAMACIÓN\n// \n// ALEJANDRO CANO ESPARCIA GRUPO PRACTICAS B2\n//\n// PROYECTO FASE 1(MODIFICADO FASE 4)\n//\n// Fichero: Categoria.cpp\n//\n/***************************************************************************/\n/***************************************************************************/\n\n\nmacarrones\n\n#include \"Categoria.h\"\nusing namespace std;\n\n//Funciones set\n//Sirven para dar valores a los elementos de Categoria\n\n//En todos hay punteros que miran a los string para operar con ellos\n//Y bucles while que guardan la informacion omitiendo los espacios \n//Si hay espacios entre letras uso un bucle for\n\n//Funcion para dar valor a IdCategoria\n\nvoid Categoria::setIdCategoria(string texto){\n\tstring SidCategoria=\"\";\n\tchar * puntero = &texto[0];\n\twhile(*puntero == ' '){\n\t\tpuntero++;\n\t}\n\twhile(*puntero != ' ' && *puntero != '\\0'){\n\t\tSidCategoria = SidCategoria + *puntero;\n\t\tpuntero++;\n\t}\n\tIdCategoria=stoi(SidCategoria);\n}\n\n//Funcion para dar valor a FechaInicial\n\nvoid Categoria::setFechaInicial(string texto){\n\tFecha FechaTemp(texto);\n\tFechaInicial=FechaTemp;\n}\n\n//Funcion para dar valor a FechaFinal\n\nvoid Categoria::setFechaFinal(string texto){\n\tFecha FechaTemp(texto);\n\tFechaFinal=FechaTemp;\n}\n\n//Funcion para dar valor a Sexo\n\nvoid Categoria::setSexo(string texto){\n\tstring SSexo=\"\";\n\tchar * puntero = &texto[0];\n\twhile(*puntero == ' '){\n\t\tpuntero++;\n\t}\n\twhile(*puntero != ' ' && *puntero != '\\0'){\n\t\tSSexo = SSexo + *puntero;\n\t\tpuntero++;\n\t}\n\tSexo=SSexo[0];\n}\n\n//Funcion para dar valor a Denominacion\n\nvoid Categoria::setDenominacion(string texto){\n\tDenominacion=\"\";\n\tchar * puntero = &texto[0];\n\twhile(*puntero == ' '){\n\t\tpuntero++;\n\t}\n\tfor(int i=0;i<strlen(puntero);i++){\n\t\tDenominacion=Denominacion + *(puntero+i);\n\t}\n}\n\n//CONSTRUCTOR PRINCIPAL\n//Usa las funciones Set\n//Con bucles while va guardando la informacion entre los delimitadores\n\nCategoria::Categoria(){\n\n\tIdCategoria=0;\n\n\tDenominacion=\"\";\n\n\tchar Sexo=' ';\n\n\tFecha FechaInicial=Fecha();\n\n\tFecha FechaFinal=Fecha();\n\t\n}\n\nCategoria::Categoria(string linea,const char delimitador){\n\n\t//puntero a string, para operar con cstring\n\n\tchar * pastring = &linea[0];\n\tstring lintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tsetIdCategoria(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tsetDenominacion(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tsetSexo(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\n\tsetFechaInicial(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tsetFechaFinal(lintemp);\n\tlintemp=\"\";\n\n\n}\n\n//Funciones Get\n//sirven para devolver los elementos de Categoria\n//Usan Format de utils y los ToString de Fecha\n\n//Devuelve IdCategoria\n\nstring Categoria::GetIdCategoria(){\n\tstring IdFinal=FormatInt(IdCategoria,3,' ');\n\treturn IdFinal;\n}\n\n//Devuelve FechaInicial\n\nstring Categoria::GetFechaInicial(){\n\tstring FechaFinal=FechaInicial.ToString();\n\treturn FechaFinal;\n}\n\n//Devuelve FechaFinal\n\nstring Categoria::GetFechaFinal(){\n\tstring FechaFinalFinal=FechaFinal.ToString();\n\treturn FechaFinalFinal;\n}\n\n//Devuelve Sexo\n\nstring Categoria::GetSexo(){\n\tstring SSexo;\n\tif (Sexo == 'H'){\n\t\tSSexo=\" HOMBRE\";\n\t}\n\tif (Sexo == 'M'){\n\t\tSSexo=\" MUJER \";\n\t}\n\treturn SSexo;\n}\n\n//Devuelve Denominacion\n\nstring Categoria::GetDenominacion(){\n\tstring DenominacionFinal=FormatString(Denominacion,10, \\\n\t\tTipoAlineacion::Derecha,' ');\n\treturn DenominacionFinal;\n}\n\n//Funcion ToString\n//Usa las funciones Get\n//resultado: Devuelve un string ordenado con Informacion\n\nstring Categoria::ToString(){\n\n\tstring CategoriaFinal=\"\";\n\n\tCategoriaFinal=CategoriaFinal + GetIdCategoria() + ' ';\n\tCategoriaFinal=CategoriaFinal + GetDenominacion();\n\tCategoriaFinal=CategoriaFinal + GetSexo() + \" De\";\n\tCategoriaFinal=CategoriaFinal + GetFechaInicial() + \" a\";\n\tCategoriaFinal=CategoriaFinal + GetFechaFinal();\n\n\treturn CategoriaFinal;\n\n}\n\n//Sobrecarga de operadores >> y <<\n//Parametros: referencia a flujo istream y ostream\n//referencia a objeto Categoria\n\nistream & operator >> (istream & in,Categoria & una_Categoria){\n\n\tstring linea;\n\n\tgetline(in,linea);\n\n\tconst char delimitador='*';\n\n\t//puntero a string, para operar con cstring\n\n\tchar * pastring = &linea[0];\n\tstring lintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tuna_Categoria.setIdCategoria(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tuna_Categoria.setDenominacion(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tuna_Categoria.setSexo(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\n\tuna_Categoria.setFechaInicial(lintemp);\n\tpastring++;\n\tlintemp=\"\";\n\n\twhile(*pastring != delimitador){\n\n\t\tlintemp = lintemp + *pastring;\n\t\tpastring++;\n\n\t}\n\n\tuna_Categoria.setFechaFinal(lintemp);\n\tlintemp=\"\";\n\n\treturn in;\n\n}\n\nostream & operator << (ostream & out, Categoria & una_Categoria){\n\n\tout.setf(ios::fixed);\t\t\n\tout.setf(ios::showpoint);\n\n\tostringstream oss;\n\n\tconst char delimitador='*';\n\n\toss << una_Categoria.IdCategoria << delimitador <<  \n\tuna_Categoria.Denominacion << delimitador <<\n\tuna_Categoria.Sexo << delimitador <<  una_Categoria.FechaInicial <<\n\tdelimitador << una_Categoria.FechaFinal << delimitador <<\n\tuna_Categoria.FechaFinal << delimitador;\n\n\tstring final=oss.str();\n\n\tout << final;\n\n\treturn(out);\n\n}\n",
+			"file": "Categoria.cpp",
+			"file_size": 5926,
+			"file_write_time": 133614785370000000,
+			"settings":
+			{
+				"buffer_size": 5937,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n\nmaca"
+					},
+					"BgAAANUBAAAAAAAA1gEAAAAAAAAAAAAA1gEAAAAAAADXAQAAAAAAAAAAAADXAQAAAAAAANgBAAAAAAAAAAAAANgBAAAAAAAA2QEAAAAAAAAAAAAA2QEAAAAAAADaAQAAAAAAAAAAAADaAQAAAAAAANsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert_completion",
+					{
+						"completion": "macarrones",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "macarrones"
+					},
+					"AgAAANcBAAAAAAAA1wEAAAAAAAAEAAAAbWFjYdcBAAAAAAAA4QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wEAAAAAAADbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOEBAAAAAAAA4gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QEAAAAAAADhAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "main_MP_Proyecto_Fase4.cpp",
+			"settings":
+			{
+				"buffer_size": 7252,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/oem/.config/sublime-text/Packages/User/Cppp.sublime-build",
+			"settings":
+			{
+				"buffer_size": 474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{\n\t\"shell_cmd\": \"${0:make}\"\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AgAAAAMAAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADbAQAAAAAAABUAAAAic2hlbGxfY21kIjogIm1ha2UiCn0",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					2,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAew",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CPP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP.sublime-build",
+					"Variant Run"
+				]
+			],
+			[
+				"Packages/User/CPP.sublime-build",
+				"Variant Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Cppp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cppp.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Cppp.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Reomve",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"OPenAI",
+				"OpenAI: New Message"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/oem/Desktop/LABERINTO",
+		"/home/oem/Fase4/Fase4",
+		"/home/oem/Fase4/Fase4/obj",
+		"/home/oem/Fase4/Fase4/src"
+	],
+	"file_history":
+	[
+		"/home/oem/.config/sublime-text/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/oem/Desktop/LABERINTO/Ayuda.txt",
+		"/home/oem/Fase4/sesion12_estudiantes/include/Secuencia.h",
+		"/home/oem/Fase4/sesion12_estudiantes/src/VI_Demo-Matriz2D.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/src/ParteFicheroPorNumLineas.cpp",
+		"/home/oem/Fase4/Fase4/src/main_MP_Proyecto_Fase4.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/src/NumeraPalabras_Linea-Posicion.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/src/NumeraLineas_Ampliacion.cpp",
+		"/home/oem/Fase4/Fase4/src/Carreras.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/src/Secuencia.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/makefile_sesion12_estudiantes.mak",
+		"/home/oem/Fase4/sesion12_estudiantes/src/Matriz2D.cpp",
+		"/home/oem/Fase4/Fase4/include/Carreras.h",
+		"/home/oem/Desktop/EXAMEN/prueba.cpp",
+		"/home/oem/Fase4/Fase4/src/TodosResultados.cpp",
+		"/home/oem/Fase4/Fase4/src/Resultados.cpp",
+		"/home/oem/Fase4/Fase4/src/Carrera.cpp",
+		"/home/oem/Fase4/Fase4/include/Fecha.h",
+		"/home/oem/Fase4/Fase4/src/Fecha.cpp",
+		"/home/oem/Desktop/EXAMEN/exa2022.cpp",
+		"/home/oem/Fase4/sesion12_estudiantes/src/InfoPGM.cpp",
+		"/home/oem/Desktop/EXAMEN/exa2022",
+		"/home/oem/Desktop/EXAMEN/MP ext 2022.pdf",
+		"/home/oem/Fase4/Fase4/src/utils.cpp",
+		"/home/oem/Fase4/Fase4/src/Corredores.cpp",
+		"/home/oem/Fase4/Fase4/src/Categorias.cpp",
+		"/home/oem/Desktop/prueba.cpp",
+		"/home/oem/Fase4/Fase4/src/Tiempo.cpp",
+		"/home/oem/Fase4/Fase4/src/Resultado.cpp",
+		"/home/oem/Fase4/Fase4/src/Corredor.cpp",
+		"/home/oem/Fase4/Fase4/src/Categoria.cpp",
+		"/home/oem/Fase4/Fase4/include/TodosResultados.h",
+		"/home/oem/Fase4/RESUMEN/src/DemoAlumnos.cpp",
+		"/home/oem/Fase4/RESUMEN/src/Alumnos.cpp",
+		"/home/oem/Fase4/Fase4/bin/MP_Proyecto_Fase4",
+		"/home/oem/Fase4/Fase4/circuito.cfg",
+		"/home/oem/Fase4/Fase4/sexo",
+		"/home/oem/Desktop/sjhd/src/Tiempo.cpp",
+		"/home/oem/Desktop/sjhd/src/TodosResultados.cpp",
+		"/home/oem/Desktop/sjhd/src/Resultados.cpp",
+		"/home/oem/Desktop/sjhd/src/main_MP_Proyecto_Fase4.cpp",
+		"/home/oem/Desktop/sjhd/src/Resultado.cpp",
+		"/home/oem/Desktop/sjhd/src/utils.cpp",
+		"/home/oem/Fase4/Fase4/MP_Proyecto_Fase4.mak",
+		"/home/oem/Fase4/Fase4/include/Tiempo.h",
+		"/home/oem/Fase3/Fase3/src/main_MP_Proyecto_Fase3.cpp",
+		"/home/oem/Fase4/Fase4/include/utils.h",
+		"/home/oem/Fase4/sesion12_estudiantes/src/Utils.cpp",
+		"/home/oem/Fase4/Ficheros Fase 4-20240522/circuito.cfg",
+		"/home/oem/Fase4/Fase4/hola",
+		"/home/oem/Fase4/Fase4/adios",
+		"/home/oem/Fase4/Fase4/include/Resultados.h",
+		"/home/oem/Fase4/Fase4/include/Corredores.h",
+		"/home/oem/Fase4/Fase4/include/Categorias.h",
+		"/home/oem/Fase4/sesion12_estudiantes/include/Matriz2D.h",
+		"/home/oem/Fase4/Fase4/prueba.txt",
+		"/home/oem/sesion12/sesion12/src/ParteFicheroPorNumLineas.cpp",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/NumeraLineas.cpp",
+		"/home/oem/Fase4/Fase4/include/Carrera.h",
+		"/home/oem/Fase4/Fase4/MP_Proyecto_Fase3.mak",
+		"/home/oem/Fase4/Fase4/include/Resultado.h",
+		"/home/oem/Fase4/Fase4/include/Categoria.h",
+		"/home/oem/Fase4/Fase4/include/Corredor.h",
+		"/home/oem/Fase4/Fase4/src/main_MP_Proyecto_Fase3.cpp",
+		"/home/oem/Fase4/Ficheros Fase 4-20240522.zip",
+		"/home/oem/sesion12/sesion12/src/NumeraLineas_Ampliacion.cpp",
+		"/home/oem/sesion12/sesion12/src/InfoPGM.cpp",
+		"/home/oem/sesion12/sesion12/src/VI_Demo-Matriz.cpp",
+		"/home/oem/sesion12/sesion12/include/Matriz2D.h",
+		"/home/oem/sesion12/sesion12/src/Matriz2D.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/Matriz2D.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/include/TipoBase_Matriz2D.h",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Secuencia.cpp",
+		"/home/oem/Fase3/Fase3/src/Corredores.cpp",
+		"/home/oem/sesion12/sesion12/.Fichero.ctrl",
+		"/home/oem/sesion12/sesion12/Fichero_3",
+		"/home/oem/sesion12/sesion12/Fichero_2",
+		"/home/oem/sesion12/sesion12/Fichero_1",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Diferencias.cpp",
+		"/home/oem/Desktop/prueba2.cpp",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/VI_Demo-Secuencia.cpp",
+		"/home/oem/Desktop/untitled",
+		"/home/oem/sesion12/sesion12/src/Listado.cpp",
+		"/home/oem/Fase3/Fase3/src/Listado.cpp",
+		"/home/oem/Fase3/Fase3/src/Corredor.cpp",
+		"/home/oem/sesion12/sesion12/makefile_12.mak",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Busca.cpp",
+		"/home/oem/Fase1/src/Categoria.cpp",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Cabecera.cpp",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Utifls.cpp",
+		"/home/oem/sesion12/sesion12_RelacionVI_previa/src/Final.cpp",
+		"/home/oem/MP/sesion11/sesion11_previa_estudiantes.tar",
+		"/home/oem/sesion12/sesion12/src/NumeraLineas.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/SecuenciaPunto2D.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/SeleccionPuntos.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/V_Demo-Matriz2D.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/PuntoMedio.cpp",
+		"/home/oem/sesion12/sesion12_RelacionV_previa/src/Punto2D.cpp",
+		"/home/oem/Fase3/Fase3/src/TodosResultados.cpp",
+		"/home/oem/Fase3/Fase3/include/TodosResultados.h",
+		"/home/oem/Fase3/Fase3/src/Resultados.cpp",
+		"/home/oem/Fase3/Fase3/src/Categorias.cpp",
+		"/home/oem/Fase3/Fase3/src/Carreras.cpp",
+		"/home/oem/Fase3/Fase3/src/Carrera.cpp",
+		"/home/oem/Fase3/Fase3/include/Carreras.h",
+		"/home/oem/Fase3/Fase3/include/Resultados.h",
+		"/home/oem/Fase3/Fase3/src/utils.cpp",
+		"/home/oem/Fase3/Fase3/include/Categorias.h",
+		"/home/oem/Fase3/Fase3/include/Corredores.h",
+		"/home/oem/MP/Sesion6/src/FuncsVectorDinamico.cpp",
+		"/home/oem/MP/Sesion5/src/I_MezclaArrays.cpp",
+		"/home/oem/MP/sesion8/src/Matriz2D.cpp",
+		"/home/oem/MP/sesion7/src/Matriz2D.cpp",
+		"/home/oem/MP/sesion9/src/Matriz2D.cpp",
+		"/home/oem/Fase3/Fase3/src/Categoria.cpp",
+		"/home/oem/Fase3/Fase3/src/Fecha.cpp",
+		"/home/oem/Fase3/Fase3/src/Resultado.cpp",
+		"/home/oem/Fase3/Fase3/include/Carrera.h",
+		"/home/oem/Fase2/Fase2/src/Corredores.cpp",
+		"/home/oem/Fase2/Fase2/src/Corredor.cpp",
+		"/home/oem/Fase2/Fase2/src/Carreras.cpp",
+		"/home/oem/Fase3/Fase3/include/Resultado.h",
+		"/home/oem/Fase3/Fase3/include/Categoria.h",
+		"/home/oem/Fase3/Fase3/include/Corredor.h",
+		"/home/oem/Fase3/Fase3/MP_Proyecto_Fase3.mak",
+		"/home/oem/MP/sesion10/src/Secuencia.cpp",
+		"/home/oem/MP/sesion10/src/Matriz2D.cpp",
+		"/home/oem/Fase3/Fase3/include/Fecha.h"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"a",
+			"escribir",
+			"redimensiona",
+			"aniade",
+			"+",
+			"+=",
+			"<<",
+			"nuevos_libros",
+			"1efa",
+			"lefa",
+			"bebe",
+			"baba",
+			"sexo",
+			"lefa",
+			"&&",
+			"Aniade",
+			"redimensiona",
+			"oss",
+			"carrera",
+			"corredor",
+			"corre",
+			"corredo",
+			"resultados",
+			"corredor",
+			"Fecha",
+			"resultado",
+			"todos",
+			"Corredores",
+			"intercambia",
+			"cin",
+			"num_carreras_disputadas",
+			"num_carreras_circuito",
+			"Carreras",
+			"Disputadas",
+			"Minimo",
+			"MP_Proyecto_Fase3",
+			"Carreras",
+			"Corredor",
+			"Corredores",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrer",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"peek",
+			"no existe el arch",
+			"unos",
+			"Carrera",
+			"unas",
+			"Carreras",
+			"una",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"unas",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"carrera",
+			"Carreras",
+			"una_",
+			"cARRERA",
+			"sexo",
+			"Carrera",
+			"una_Carrera",
+			"una_",
+			"cARRERA",
+			"una_",
+			"Fecha",
+			"carrera",
+			"resultado,",
+			"pide",
+			"FuncionEficiente",
+			"Hola",
+			"puntero",
+			"InfoPGM",
+			"NumeraLineas_Ampliacion",
+			"umeraLineas_Ampliacion",
+			"IV_Demo-Matriz2D",
+			"NumeraLineas",
+			"SESION 10",
+			"makefile_10",
+			"busca",
+			"Resultado ",
+			"Resultado",
+			"sumados",
+			"pide",
+			"resultado",
+			"Pide",
+			"todos_resultados",
+			"stoi(otro.datos[j].GetDorsal()",
+			"IdResultado",
+			"Carrera",
+			"Carreras",
+			"IdResultado",
+			"Carrera",
+			"Carreras",
+			"IdResultado",
+			"Carrera",
+			"Carreras",
+			"IdResultado",
+			"Carrera",
+			"Carreras",
+			"IdResultado",
+			"Carrera",
+			"Carreras",
+			"NumIdResultado",
+			"Carrera",
+			"Carreras",
+			"Carrera",
+			"Carreras",
+			"NumIdResultado",
+			"Carrera",
+			"Carreras",
+			"IdResultado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tmp",
+			"cout",
+			"Tiempo",
+			"POST",
+			"categorias",
+			"MP_Proyecto_Fase4",
+			"TodosResultados",
+			"Resultado",
+			"Resultados",
+			"Resultado",
+			"Resultados",
+			"Corredor",
+			"Corredores",
+			"Corredor",
+			"Corredores",
+			"Corredor",
+			"Corredores",
+			"Categoria",
+			"Categorias",
+			"Categoria",
+			"Categorias",
+			"Categoria",
+			"Categorias",
+			"unas",
+			"Resultado",
+			"unos",
+			"TodosResultados",
+			"uno",
+			"Resultado",
+			"Resultados",
+			"Corredores",
+			"Corredor",
+			"unos",
+			"Corredores",
+			"Categoria",
+			"Categorias",
+			"Categoria",
+			"Categorias",
+			"un_",
+			"Resultado",
+			"fortnite",
+			"Categoria",
+			"Corredor",
+			"un_Corredor",
+			"un_",
+			"Corredor",
+			"uno_",
+			"Tiempo",
+			"Fecha",
+			"resultado:",
+			"Parametros",
+			"LaFuncionMasEficiente",
+			"FuncionEficiente",
+			"*puntero",
+			"ParteFicheroPorNumLineas",
+			"InfoPGM",
+			"NumeraLineas_Ampliacion",
+			"SESION 12",
+			"makefile_12",
+			"Resultados ",
+			"restados",
+			"Parametros",
+			"Devuelve",
+			"Parametros",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Dorsal",
+			"Resultado",
+			"TodosResultados",
+			"Resultado",
+			"TodosResultados",
+			"NumDorsal",
+			"Resultado",
+			"TodosResultados",
+			"Resultados",
+			"Dorsal",
+			"Resultado",
+			"Resultados",
+			"Dorsal",
+			"Resultado",
+			"Resultados",
+			"Categoria",
+			"Categorias",
+			"Categoria",
+			"Categorias",
+			"IdCarrera",
+			"Categoria",
+			"Categorias",
+			"IdCarrera",
+			"IdCategoria",
+			"Categoria",
+			"Categorias",
+			"Corredor",
+			"Corredores",
+			"Dorsal",
+			"Corredor",
+			"Corredores",
+			"Dorsal",
+			"Corredor",
+			"Corredores",
+			"Corredor",
+			"Corredores",
+			"Dorsal",
+			"NumDorsal",
+			"Corredor",
+			"Corredores",
+			"Dorsal",
+			"Corredor",
+			"Corredores",
+			"&numfinal[0]",
+			"&parteentera[0]",
+			"NumIdCarrera",
+			"Dorsal",
+			"Corredor",
+			"Corredores"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/oem/Desktop/pene.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"wrap_width": 78
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/oem/Desktop/hola.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										53,
+										54
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Carreras.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Resultado.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Categoria.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "main_MP_Proyecto_Fase4.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/oem/.config/sublime-text/Packages/User/Cppp.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										472,
+										473
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										2
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "main_MP_Proyecto_Fase4.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
